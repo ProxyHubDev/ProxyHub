@@ -31,6 +31,10 @@ local Loaders = {
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ProxyHubDev/ProxyHub/refs/heads/main/Loaders/AnimeApocalypse.lua"))()
     end,
 
+    [113236157544232] = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/ProxyHubDev/ProxyHub/refs/heads/main/Loaders/AnimeAstral.lua"))()
+    end,
+
     [107095834793267] = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ProxyHubDev/ProxyHub/refs/heads/main/Loaders/OilEmpire.lua"))()
     end
