@@ -1,16 +1,4 @@
 local Loaders = {
-    [114234929420007] = function()
-        loadstring(game:HttpGet(""))()
-    end,
-
-    [108194354348181] = function()
-        loadstring(game:HttpGet(""))()
-    end,
-
-    [135434213652028] = function()
-        loadstring(game:HttpGet(""))()
-    end,
-
     [105342279726230] = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/ProxyHubDev/ProxyHub/refs/heads/main/Loaders/SlimeRNG.lua"))()
     end,
