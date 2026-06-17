@@ -6,3 +6,4 @@
 - Anime Apocalypse
 - Clover Origins
 - Oil Empire
+- Anime Astral
